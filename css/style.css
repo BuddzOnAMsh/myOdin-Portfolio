@@ -1,7 +1,9 @@
 header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 0% 20%;
+    background-color: #1F2937;
 }
 .header-logo {
     font-family: 'roboto', sans-serif;
