@@ -3,15 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 /*-------header-------*/
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0% 20%;
+    padding: 0% 20%;    
     background-color: #1F2937;
+    flex-shrink: 0;
 }
 .header-logo > h1{
+    margin: 50px 50px 50px 0;
     font-family: Arial;
     font-size: 24px;
     color: #F9FAF8;
