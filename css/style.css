@@ -77,3 +77,10 @@ h1 {
     font-weight: bolder;
     color: #1F2937;
 }
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
