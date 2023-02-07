@@ -89,6 +89,7 @@ h1 {
 .content > p {
     width: 180px;
     text-align: center;
+    margin-bottom: 54px;
 }
 
 .img-info {
@@ -96,7 +97,7 @@ h1 {
     gap: 50px;
 }
 
-img {
+.content > img {
     border: 5px solid #3882F6;
     border-radius: 15px;
 }
