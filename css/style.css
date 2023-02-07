@@ -76,6 +76,7 @@ h1 {
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+    margin: 50px;
 }
 
 .content {
@@ -89,3 +90,14 @@ h1 {
     width: 180px;
     text-align: center;
 }
+
+.img-info {
+    display: flex;
+    gap: 50px;
+}
+
+img {
+    border: 5px solid #3882F6;
+    border-radius: 15px;
+}
+
