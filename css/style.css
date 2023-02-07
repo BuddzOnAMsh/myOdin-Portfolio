@@ -143,6 +143,13 @@ section-4 {
 .content-box {
     display: flex;
     flex-direction: row;
+    font-family: 'roboto', sans-serif;
+    gap: 180px;
+    background-color:#3882F6;
+    border-radius: 8px;
+    padding: 50px 120px;
+    margin: 100px 0px;
+    color:#F9FAF8;
 }
 
 .button-box {
@@ -151,3 +158,16 @@ section-4 {
     justify-content: flex-start;
 }
 
+.button-box > button {
+    border: 1px solid #F9FAF8;
+}
+
+.button-box > a {
+    color: #F9FAF8;
+    border-radius: 5px;
+}
+
+.signup-title {
+    font-size:larger;
+    font-weight: bold
+}
